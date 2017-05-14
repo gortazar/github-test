@@ -4,3 +4,6 @@
 
 Work in progress
 
+## Integration tests
+
+TBD
